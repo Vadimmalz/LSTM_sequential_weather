@@ -1,6 +1,6 @@
 # LSTM_sequential_weather
 
-## Academic Context
+## Academic Context 
 
 This project is a copy of an assignment completed as part of an assessment for a course at Imperial College London. 
 
